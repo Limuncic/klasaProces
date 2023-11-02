@@ -1,0 +1,11 @@
+C:\Users\rafae\source\repos\klasaProces\klasaProces\bin\Debug\klasaProces.exe.config
+C:\Users\rafae\source\repos\klasaProces\klasaProces\bin\Debug\klasaProces.exe
+C:\Users\rafae\source\repos\klasaProces\klasaProces\bin\Debug\klasaProces.pdb
+C:\Users\rafae\source\repos\klasaProces\klasaProces\obj\Debug\klasaProces.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\klasaProces\klasaProces\obj\Debug\klasaProces.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\klasaProces\klasaProces\obj\Debug\klasaProces.Form1.resources
+C:\Users\rafae\source\repos\klasaProces\klasaProces\obj\Debug\klasaProces.Properties.Resources.resources
+C:\Users\rafae\source\repos\klasaProces\klasaProces\obj\Debug\klasaProces.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\klasaProces\klasaProces\obj\Debug\klasaProces.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\klasaProces\klasaProces\obj\Debug\klasaProces.exe
+C:\Users\rafae\source\repos\klasaProces\klasaProces\obj\Debug\klasaProces.pdb
